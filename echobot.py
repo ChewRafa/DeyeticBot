@@ -101,6 +101,9 @@ def echo(bot):
                 'Ya verga, cálmate!, %s',
                 'Lo que pienses es una de las 1500 cosas que me vienen valiendo verga, %s',
                 'Te via machetiá diantre %s',
+                '%s, tienes la gracia de un tumor.',
+                '%s, eres un fiasco, no eres capaz de entablar una conversación simple con una persona',
+                '%s... eres carroña humana.'
 
             )
             try:
