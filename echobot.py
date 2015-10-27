@@ -103,7 +103,8 @@ def echo(bot):
                 'Te via machetiá diantre %s',
                 '%s, tienes la gracia de un tumor.',
                 '%s, eres un fiasco, no eres capaz de entablar una conversación simple con una persona',
-                '%s... eres carroña humana.'
+                '%s... eres carroña humana.',
+                'Ojalá te dé diarrea por eso que acabas de decir, %s',
 
             )
             try:
